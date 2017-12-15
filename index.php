@@ -1,3 +1,3 @@
 <?php
-	echo "teste de arquivo!"
+	echo "teste de arquivo! Olá Mundo"
 ?>
